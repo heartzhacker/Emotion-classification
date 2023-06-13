@@ -70,7 +70,7 @@ Here I have two options:-
   - Either take the sum of each emotion in each frame and declare the highest sum as the emotion detected
   - Chose an emotion(through the maximum probability) for each frame and declare the most occurring emotion as the detected one. If more than 1 emotion has the highest number of frames they have been chosen for, then for the tie-breaker go with which one has the highest sum among all frames.
   
-P.S:- the [model_not_used.ipynb](model_not_used.ipynb) was supposed to be for males.
+P.S:- the [model_not_used.ipynb](model_not_used.ipynb) was supposed to be for male training set classification.
 
 
 # Scope of Improvement
