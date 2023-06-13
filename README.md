@@ -17,7 +17,7 @@ This project serves as a starting point for further exploration and improvement 
 - [Approach](#approach)
 - [Approach If Had access to more RAM](#approach)
 - [Scope of Improvement](#scope-of-improvement)
-- [Technologies-ues](#technologies-used)
+- [Technologies-used](#technologies-used)
 
 
 # Architecture
